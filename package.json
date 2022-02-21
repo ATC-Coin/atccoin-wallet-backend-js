@@ -1,6 +1,6 @@
 {
-  "name": "turtlecoin-wallet-backend",
-  "version": "6.0.7",
+  "name": "atccoin-wallet-backend",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/lib/index.js",
   "types": "dist/lib/index.d.ts",
